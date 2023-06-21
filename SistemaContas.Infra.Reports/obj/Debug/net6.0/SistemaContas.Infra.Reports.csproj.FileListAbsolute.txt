@@ -1,0 +1,15 @@
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\bin\Debug\net6.0\SistemaContas.Infra.Reports.deps.json
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\bin\Debug\net6.0\SistemaContas.Infra.Reports.dll
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\bin\Debug\net6.0\SistemaContas.Infra.Reports.pdb
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\bin\Debug\net6.0\SistemaContas.Domain.dll
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\bin\Debug\net6.0\SistemaContas.Domain.pdb
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.csproj.AssemblyReference.cache
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.AssemblyInfoInputs.cache
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.AssemblyInfo.cs
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.csproj.CoreCompileInputs.cache
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.csproj.CopyComplete
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.dll
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\refint\SistemaContas.Infra.Reports.dll
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\SistemaContas.Infra.Reports.pdb
+C:\Users\couti\Desktop\arquivos\Curso CSharp\SistemasContas\SistemaContas.Infra.Reports\obj\Debug\net6.0\ref\SistemaContas.Infra.Reports.dll

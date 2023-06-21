@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SistemasContas.Mvc.props" />
+</Project>
